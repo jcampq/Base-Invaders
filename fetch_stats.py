@@ -11,6 +11,7 @@ import json
 import re
 import sys
 from datetime import datetime
+from zoneinfo import ZoneInfo
 from pathlib import Path
 
 try:
@@ -382,7 +383,7 @@ def main():
     data = {
         "division":     TARGET_DIVISION,
         "my_team":      MY_TEAM,
-        "last_updated": datetime.now().isoformat(timespec="seconds"),
+        "last_updated": datetime.now(ZoneInfo("America/Vancouver")).isoformat(timespec="seconds"),
         "standings":    standings,
         "games":        merged_games,
     }
