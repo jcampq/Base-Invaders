@@ -116,12 +116,12 @@ function renderStandings(stats) {
   });
 
   document.getElementById('standings').innerHTML = `
-    <h2 class="panel-title">FIGHTER SELECT</h2>
+    <h2 class="panel-title">STANDINGS</h2>
     <div class="table-wrap">
       <table class="retro-table">
         <thead>
           <tr>
-            <th>#</th><th>FIGHTER</th><th>RECORD</th><th>POWER</th>
+            <th>#</th><th>TEAM</th><th>RECORD</th><th>WIN %</th>
             <th>GB</th><th>RF</th><th>RA</th><th>STREAK</th>
           </tr>
         </thead>
@@ -165,7 +165,7 @@ function renderCarousel(schedule) {
   });
 
   document.getElementById('next-games').innerHTML = `
-    <h2 class="panel-title">BATTLE SCHEDULE</h2>
+    <h2 class="panel-title">GAMES SCHEDULE</h2>
     <div class="carousel-wrapper">
       <button class="carousel-btn" onclick="scrollCarousel(-1)">&#9664;</button>
       <div class="carousel" id="gameCarousel">${cards}</div>
