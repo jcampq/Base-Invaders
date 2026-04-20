@@ -73,7 +73,6 @@ function renderHeader(stats, schedule) {
   const updated = (stats.last_updated || '').slice(0, 16).replace('T', ' ');
 
   document.getElementById('site-header').innerHTML = `
-    <div class="header-arcade">STREET SLOPITCH II</div>
     <div class="header-team">${esc(MY_TEAM)}</div>
     <div class="header-meta">
       RANK #${rank} &nbsp;&bull;&nbsp; ${esc(myRow.record || '-')}
@@ -82,7 +81,6 @@ function renderHeader(stats, schedule) {
     </div>
     <div class="header-meta">VERNON LOCK &amp; SAFE MIXED DIVISION &nbsp;&bull;&nbsp; SPRING 2026</div>
     ${nextHtml}
-    <div class="insert-coin">&#9658; INSERT COIN TO CONTINUE &#9668;</div>
     <div class="header-updated">LAST UPDATED: ${esc(updated)}</div>
   `;
 }
