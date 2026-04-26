@@ -373,8 +373,19 @@ def main():
         g.get("game_id") or f"{g['date']}_{g['team1']}_{g['team2']}": g
         for g in existing.get("games", [])
     }
+    # Secondary index: fallback key → primary key, to remove stale fallback entries
+    fallback_to_id: dict[str, str] = {
+        f"{g['date']}_{g['team1']}_{g['team2']}": (g.get("game_id") or f"{g['date']}_{g['team1']}_{g['team2']}")
+        for g in existing.get("games", [])
+    }
     for game in fresh_games:
         gid = game.get("game_id") or f"{game['date']}_{game['team1']}_{game['team2']}"
+        fallback = f"{game['date']}_{game['team1']}_{game['team2']}"
+        # If a real game_id is now available, remove any stale fallback-keyed entry
+        if game.get("game_id") and fallback in fallback_to_id:
+            stale_key = fallback_to_id[fallback]
+            if stale_key != gid:
+                existing_by_id.pop(stale_key, None)
         existing_by_id[gid] = game  # overwrite/add
 
     merged_games = sorted(existing_by_id.values(), key=lambda g: (g["date"], g.get("game_id") or ""))
