@@ -320,7 +320,7 @@ def get_all_division_scores(division_teams: list[str]) -> list[dict]:
     for page_num in range(2, pages + 1):
         soup_n = fetch_soup({
             "p": "scores",
-            "pg": "2",
+            "pg": str(page_num),
             "pagesize": "10",
             "pageNum": str(page_num),
         })
