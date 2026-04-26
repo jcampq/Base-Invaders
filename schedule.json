@@ -1,8 +1,8 @@
 {
   "team": "BASE INVADERS",
-  "last_updated": "2026-04-20T14:10:22",
+  "last_updated": "2026-04-25T18:24:15",
   "record": {
-    "wins": 0,
+    "wins": 1,
     "losses": 0,
     "ties": 1
   },
@@ -30,12 +30,12 @@
       "home_away": "home",
       "opponent": "BUNTSMOKERS",
       "location": "DND 8",
-      "status": "scheduled",
-      "result": null,
-      "my_runs": null,
-      "opponent_runs": null,
-      "details_type": "Game Info",
-      "details_url": "https://www.vernoncoedslopitchleague.com/teams/default.asp?u=VCSP&s=softball&p=preview&sportsHQ=952569&gameID=2031545"
+      "status": "completed",
+      "result": "WIN",
+      "my_runs": 20,
+      "opponent_runs": 19,
+      "details_type": "Box Score",
+      "details_url": "https://www.vernoncoedslopitchleague.com/teams/default.asp?u=VCSP&s=softball&p=boxscore&sportsHQ=952569&gameID=2031545"
     },
     {
       "game_id": "2031551",
