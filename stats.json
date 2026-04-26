@@ -1,7 +1,7 @@
 {
   "division": "VERNON LOCK & SAFE Mixed Division",
   "my_team": "BASE INVADERS",
-  "last_updated": "2026-04-25T20:17:55-07:00",
+  "last_updated": "2026-04-25T20:29:33-07:00",
   "standings": [
     {
       "team": "GLOVE HANDLES",
@@ -125,41 +125,6 @@
       "boxscore_url": "https://www.vernoncoedslopitchleague.com/teams/default.asp?u=VCSP&s=softball&sportsHQ=1001293&gameID=2031534&p=boxscore"
     },
     {
-      "game_id": "2031535",
-      "date": "2026-04-16",
-      "time": "6:00 PM",
-      "diamond": "DND 8",
-      "game_type": "REGULAR SEASON",
-      "team1": "BASE INVADERS",
-      "team1_runs": 19,
-      "team1_hits": 0,
-      "team1_errors": 0,
-      "team1_innings": [
-        "0",
-        "0",
-        "0",
-        "0",
-        "0",
-        "0",
-        "19"
-      ],
-      "team2": "BAT INTENTIONS",
-      "team2_runs": 19,
-      "team2_hits": 0,
-      "team2_errors": 0,
-      "team2_innings": [
-        "0",
-        "0",
-        "0",
-        "0",
-        "0",
-        "0",
-        "19"
-      ],
-      "winner": "TIE",
-      "boxscore_url": "https://www.vernoncoedslopitchleague.com/teams/default.asp?u=VCSP&s=softball&sportsHQ=952569&gameID=2031535&p=boxscore"
-    },
-    {
       "game_id": "2031536",
       "date": "2026-04-16",
       "time": "6:00 PM",
@@ -193,41 +158,6 @@
       ],
       "winner": "BUNTSMOKERS",
       "boxscore_url": "https://www.vernoncoedslopitchleague.com/teams/default.asp?u=VCSP&s=softball&sportsHQ=952575&gameID=2031536&p=boxscore"
-    },
-    {
-      "game_id": "2031537",
-      "date": "2026-04-16",
-      "time": "6:00 PM",
-      "diamond": "DND 5",
-      "game_type": "REGULAR SEASON",
-      "team1": "BUNTSMOKERS",
-      "team1_runs": 20,
-      "team1_hits": 0,
-      "team1_errors": 0,
-      "team1_innings": [
-        "0",
-        "0",
-        "0",
-        "0",
-        "0",
-        "0",
-        "20"
-      ],
-      "team2": "HULL RAISER",
-      "team2_runs": 8,
-      "team2_hits": 0,
-      "team2_errors": 0,
-      "team2_innings": [
-        "0",
-        "0",
-        "0",
-        "0",
-        "0",
-        "0",
-        "8"
-      ],
-      "winner": "BUNTSMOKERS",
-      "boxscore_url": "https://www.vernoncoedslopitchleague.com/teams/default.asp?u=VCSP&s=softball&sportsHQ=1001295&gameID=2031537&p=boxscore"
     },
     {
       "game_id": "2031538",
