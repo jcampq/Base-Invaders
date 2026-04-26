@@ -1,7 +1,7 @@
 {
   "division": "VERNON LOCK & SAFE Mixed Division",
   "my_team": "BASE INVADERS",
-  "last_updated": "2026-04-25T20:29:33-07:00",
+  "last_updated": "2026-04-25T22:07:35-07:00",
   "standings": [
     {
       "team": "GLOVE HANDLES",
@@ -90,319 +90,100 @@
   ],
   "games": [
     {
-      "game_id": "2031534",
+      "game_id": "2031535",
       "date": "2026-04-16",
-      "time": "6:00 PM",
+      "time": "6:00 pm",
       "diamond": "DND 8",
-      "game_type": "REGULAR SEASON",
       "team1": "BASE INVADERS",
       "team1_runs": 19,
-      "team1_hits": 0,
-      "team1_errors": 0,
-      "team1_innings": [
-        "0",
-        "0",
-        "0",
-        "0",
-        "0",
-        "0",
-        "19"
-      ],
       "team2": "BAT INTENTIONS",
       "team2_runs": 19,
-      "team2_hits": 0,
-      "team2_errors": 0,
-      "team2_innings": [
-        "0",
-        "0",
-        "0",
-        "0",
-        "0",
-        "0",
-        "19"
-      ],
       "winner": "TIE",
-      "boxscore_url": "https://www.vernoncoedslopitchleague.com/teams/default.asp?u=VCSP&s=softball&sportsHQ=1001293&gameID=2031534&p=boxscore"
+      "boxscore_url": "https://www.vernoncoedslopitchleague.com/teams/default.asp?u=VCSP&s=softball&p=boxscore&sportsHQ=952569&gameID=2031535"
     },
     {
-      "game_id": "2031536",
+      "game_id": "2031537",
       "date": "2026-04-16",
-      "time": "6:00 PM",
+      "time": "6:00 pm",
       "diamond": "DND 5",
-      "game_type": "REGULAR SEASON",
       "team1": "BUNTSMOKERS",
       "team1_runs": 20,
-      "team1_hits": 0,
-      "team1_errors": 0,
-      "team1_innings": [
-        "0",
-        "0",
-        "0",
-        "0",
-        "0",
-        "0",
-        "20"
-      ],
       "team2": "HULL RAISER",
       "team2_runs": 8,
-      "team2_hits": 0,
-      "team2_errors": 0,
-      "team2_innings": [
-        "0",
-        "0",
-        "0",
-        "0",
-        "0",
-        "0",
-        "8"
-      ],
       "winner": "BUNTSMOKERS",
-      "boxscore_url": "https://www.vernoncoedslopitchleague.com/teams/default.asp?u=VCSP&s=softball&sportsHQ=952575&gameID=2031536&p=boxscore"
-    },
-    {
-      "game_id": "2031538",
-      "date": "2026-04-16",
-      "time": "6:00 PM",
-      "diamond": "DND 9",
-      "game_type": "REGULAR SEASON",
-      "team1": "GLOVE HANDLES",
-      "team1_runs": 17,
-      "team1_hits": 0,
-      "team1_errors": 0,
-      "team1_innings": [
-        "0",
-        "0",
-        "0",
-        "0",
-        "0",
-        "0",
-        "17"
-      ],
-      "team2": "THE BLOWOUTS",
-      "team2_runs": 1,
-      "team2_hits": 0,
-      "team2_errors": 0,
-      "team2_innings": [
-        "0",
-        "0",
-        "0",
-        "0",
-        "0",
-        "0",
-        "1"
-      ],
-      "winner": "GLOVE HANDLES",
-      "boxscore_url": "https://www.vernoncoedslopitchleague.com/teams/default.asp?u=VCSP&s=softball&sportsHQ=880792&gameID=2031538&p=boxscore"
+      "boxscore_url": "https://www.vernoncoedslopitchleague.com/teams/default.asp?u=VCSP&s=softball&p=boxscore&sportsHQ=1001295&gameID=2031537"
     },
     {
       "game_id": "2031539",
       "date": "2026-04-16",
-      "time": "6:00 PM",
+      "time": "6:00 pm",
       "diamond": "DND 9",
-      "game_type": "REGULAR SEASON",
       "team1": "GLOVE HANDLES",
       "team1_runs": 17,
-      "team1_hits": 0,
-      "team1_errors": 0,
-      "team1_innings": [
-        "0",
-        "0",
-        "0",
-        "0",
-        "0",
-        "0",
-        "17"
-      ],
       "team2": "THE BLOWOUTS",
       "team2_runs": 1,
-      "team2_hits": 0,
-      "team2_errors": 0,
-      "team2_innings": [
-        "0",
-        "0",
-        "0",
-        "0",
-        "0",
-        "0",
-        "1"
-      ],
       "winner": "GLOVE HANDLES",
-      "boxscore_url": "https://www.vernoncoedslopitchleague.com/teams/default.asp?u=VCSP&s=softball&sportsHQ=880777&gameID=2031539&p=boxscore"
+      "boxscore_url": "https://www.vernoncoedslopitchleague.com/teams/default.asp?u=VCSP&s=softball&p=boxscore&sportsHQ=880777&gameID=2031539"
     },
     {
-      "game_id": "2031787",
+      "game_id": "2031788",
       "date": "2026-04-17",
-      "time": "6:00 PM",
+      "time": "6:00 pm",
       "diamond": "DND 4",
-      "game_type": "REGULAR SEASON",
       "team1": "GLOVE HANDLES",
       "team1_runs": 15,
-      "team1_hits": 0,
-      "team1_errors": 0,
-      "team1_innings": [
-        "0",
-        "0",
-        "0",
-        "0",
-        "0",
-        "0",
-        "15"
-      ],
       "team2": "BULLSHITTERS",
       "team2_runs": 1,
-      "team2_hits": 0,
-      "team2_errors": 0,
-      "team2_innings": [
-        "0",
-        "0",
-        "0",
-        "0",
-        "0",
-        "0",
-        "1"
-      ],
       "winner": "GLOVE HANDLES",
-      "boxscore_url": "https://www.vernoncoedslopitchleague.com/teams/default.asp?u=VCSP&s=softball&sportsHQ=924467&gameID=2031787&p=boxscore"
+      "boxscore_url": "https://www.vernoncoedslopitchleague.com/teams/default.asp?u=VCSP&s=softball&p=boxscore&sportsHQ=880777&gameID=2031788"
     },
     {
-      "game_id": "2031540",
+      "game_id": "2031541",
       "date": "2026-04-23",
-      "time": "6:00 PM",
+      "time": "6:00 pm",
       "diamond": "DND 5",
-      "game_type": "REGULAR SEASON",
       "team1": "BAT INTENTIONS",
       "team1_runs": 19,
-      "team1_hits": 0,
-      "team1_errors": 0,
-      "team1_innings": [
-        "0",
-        "0",
-        "0",
-        "0",
-        "0",
-        "0",
-        "19"
-      ],
       "team2": "THE BLOWOUTS",
       "team2_runs": 5,
-      "team2_hits": 0,
-      "team2_errors": 0,
-      "team2_innings": [
-        "0",
-        "0",
-        "0",
-        "0",
-        "0",
-        "0",
-        "5"
-      ],
       "winner": "BAT INTENTIONS",
-      "boxscore_url": "https://www.vernoncoedslopitchleague.com/teams/default.asp?u=VCSP&s=softball&sportsHQ=880792&gameID=2031540&p=boxscore"
+      "boxscore_url": "https://www.vernoncoedslopitchleague.com/teams/default.asp?u=VCSP&s=softball&p=boxscore&sportsHQ=1001293&gameID=2031541"
     },
     {
       "game_id": "2031543",
       "date": "2026-04-23",
-      "time": "6:00 PM",
+      "time": "6:00 pm",
       "diamond": "DND 9",
-      "game_type": "REGULAR SEASON",
       "team1": "GLOVE HANDLES",
       "team1_runs": 16,
-      "team1_hits": 0,
-      "team1_errors": 0,
-      "team1_innings": [
-        "0",
-        "0",
-        "0",
-        "0",
-        "0",
-        "0",
-        "16"
-      ],
       "team2": "BULLSHITTERS",
       "team2_runs": 15,
-      "team2_hits": 0,
-      "team2_errors": 0,
-      "team2_innings": [
-        "0",
-        "0",
-        "0",
-        "0",
-        "0",
-        "0",
-        "15"
-      ],
       "winner": "GLOVE HANDLES",
-      "boxscore_url": "https://www.vernoncoedslopitchleague.com/teams/default.asp?u=VCSP&s=softball&sportsHQ=880777&gameID=2031543&p=boxscore"
+      "boxscore_url": "https://www.vernoncoedslopitchleague.com/teams/default.asp?u=VCSP&s=softball&p=boxscore&sportsHQ=880777&gameID=2031543"
     },
     {
-      "game_id": "2031544",
+      "game_id": "2031545",
       "date": "2026-04-23",
-      "time": "6:00 PM",
+      "time": "6:00 pm",
       "diamond": "DND 8",
-      "game_type": "REGULAR SEASON",
       "team1": "BASE INVADERS",
       "team1_runs": 20,
-      "team1_hits": 0,
-      "team1_errors": 0,
-      "team1_innings": [
-        "0",
-        "0",
-        "0",
-        "0",
-        "0",
-        "0",
-        "20"
-      ],
       "team2": "BUNTSMOKERS",
       "team2_runs": 19,
-      "team2_hits": 0,
-      "team2_errors": 0,
-      "team2_innings": [
-        "0",
-        "0",
-        "0",
-        "0",
-        "0",
-        "0",
-        "19"
-      ],
       "winner": "BASE INVADERS",
-      "boxscore_url": "https://www.vernoncoedslopitchleague.com/teams/default.asp?u=VCSP&s=softball&sportsHQ=1001295&gameID=2031544&p=boxscore"
+      "boxscore_url": "https://www.vernoncoedslopitchleague.com/teams/default.asp?u=VCSP&s=softball&p=boxscore&sportsHQ=952569&gameID=2031545"
     },
     {
-      "game_id": "2031789",
+      "game_id": "2031790",
       "date": "2026-04-24",
-      "time": "6:00 PM",
+      "time": "6:00 pm",
       "diamond": "DND 4",
-      "game_type": "REGULAR SEASON",
       "team1": "GLOVE HANDLES",
       "team1_runs": 24,
-      "team1_hits": 0,
-      "team1_errors": 0,
-      "team1_innings": [
-        "0",
-        "0",
-        "0",
-        "0",
-        "0",
-        "0",
-        "24"
-      ],
       "team2": "HULL RAISER",
       "team2_runs": 4,
-      "team2_hits": 0,
-      "team2_errors": 0,
-      "team2_innings": [
-        "0",
-        "0",
-        "0",
-        "0",
-        "0",
-        "0",
-        "4"
-      ],
       "winner": "GLOVE HANDLES",
-      "boxscore_url": "https://www.vernoncoedslopitchleague.com/teams/default.asp?u=VCSP&s=softball&sportsHQ=952575&gameID=2031789&p=boxscore"
+      "boxscore_url": "https://www.vernoncoedslopitchleague.com/teams/default.asp?u=VCSP&s=softball&p=boxscore&sportsHQ=880777&gameID=2031790"
     }
   ]
 }

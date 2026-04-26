@@ -1,6 +1,6 @@
 {
   "team": "BASE INVADERS",
-  "last_updated": "2026-04-26T03:29:34",
+  "last_updated": "2026-04-25T22:07:35-07:00",
   "record": {
     "wins": 1,
     "losses": 0,
@@ -11,7 +11,7 @@
       "game_id": "2031535",
       "date": "2026-04-16",
       "day_of_week": "Thu",
-      "time": "6:00 pm",
+      "time": "6:00 pm",
       "home_away": "home",
       "opponent": "BAT INTENTIONS",
       "location": "DND 8",
@@ -19,14 +19,13 @@
       "result": "TIE",
       "my_runs": 19,
       "opponent_runs": 19,
-      "details_type": "Box Score",
       "details_url": "https://www.vernoncoedslopitchleague.com/teams/default.asp?u=VCSP&s=softball&p=boxscore&sportsHQ=952569&gameID=2031535"
     },
     {
       "game_id": "2031545",
       "date": "2026-04-23",
       "day_of_week": "Thu",
-      "time": "6:00 pm",
+      "time": "6:00 pm",
       "home_away": "home",
       "opponent": "BUNTSMOKERS",
       "location": "DND 8",
@@ -34,14 +33,13 @@
       "result": "WIN",
       "my_runs": 20,
       "opponent_runs": 19,
-      "details_type": "Box Score",
       "details_url": "https://www.vernoncoedslopitchleague.com/teams/default.asp?u=VCSP&s=softball&p=boxscore&sportsHQ=952569&gameID=2031545"
     },
     {
       "game_id": "2031551",
       "date": "2026-04-30",
       "day_of_week": "Thu",
-      "time": "6:00 pm",
+      "time": "6:00 pm",
       "home_away": "home",
       "opponent": "THE BLOWOUTS",
       "location": "DND 8",
@@ -49,14 +47,13 @@
       "result": null,
       "my_runs": null,
       "opponent_runs": null,
-      "details_type": "Game Info",
       "details_url": "https://www.vernoncoedslopitchleague.com/teams/default.asp?u=VCSP&s=softball&p=preview&sportsHQ=952569&gameID=2031551"
     },
     {
       "game_id": "2031792",
       "date": "2026-05-01",
       "day_of_week": "Fri",
-      "time": "6:00 pm",
+      "time": "6:00 pm",
       "home_away": "home",
       "opponent": "BUNTSMOKERS",
       "location": "DND 4",
@@ -64,14 +61,13 @@
       "result": null,
       "my_runs": null,
       "opponent_runs": null,
-      "details_type": "Game Info",
       "details_url": "https://www.vernoncoedslopitchleague.com/teams/default.asp?u=VCSP&s=softball&p=preview&sportsHQ=952569&gameID=2031792"
     },
     {
-      "game_id": "2031675",
+      "game_id": "2031676",
       "date": "2026-05-07",
       "day_of_week": "Thu",
-      "time": "6:00 pm",
+      "time": "6:00 pm",
       "home_away": "away",
       "opponent": "BULLSHITTERS",
       "location": "DND 5",
@@ -79,14 +75,13 @@
       "result": null,
       "my_runs": null,
       "opponent_runs": null,
-      "details_type": "Game Info",
-      "details_url": "https://www.vernoncoedslopitchleague.com/teams/default.asp?u=VCSP&s=softball&p=preview&sportsHQ=952569&gameID=2031675"
+      "details_url": "https://www.vernoncoedslopitchleague.com/teams/default.asp?u=VCSP&s=softball&p=preview&sportsHQ=924467&gameID=2031676"
     },
     {
       "game_id": "2031686",
       "date": "2026-05-07",
       "day_of_week": "Thu",
-      "time": "7:30 pm",
+      "time": "7:30 pm",
       "home_away": "home",
       "opponent": "GLOVE HANDLES",
       "location": "DND 5",
@@ -94,14 +89,13 @@
       "result": null,
       "my_runs": null,
       "opponent_runs": null,
-      "details_type": "Game Info",
       "details_url": "https://www.vernoncoedslopitchleague.com/teams/default.asp?u=VCSP&s=softball&p=preview&sportsHQ=952569&gameID=2031686"
     },
     {
-      "game_id": "2031793",
+      "game_id": "2031794",
       "date": "2026-05-08",
       "day_of_week": "Fri",
-      "time": "6:00 pm",
+      "time": "6:00 pm",
       "home_away": "away",
       "opponent": "THE BLOWOUTS",
       "location": "DND 4",
@@ -109,14 +103,13 @@
       "result": null,
       "my_runs": null,
       "opponent_runs": null,
-      "details_type": "Game Info",
-      "details_url": "https://www.vernoncoedslopitchleague.com/teams/default.asp?u=VCSP&s=softball&p=preview&sportsHQ=952569&gameID=2031793"
+      "details_url": "https://www.vernoncoedslopitchleague.com/teams/default.asp?u=VCSP&s=softball&p=preview&sportsHQ=880792&gameID=2031794"
     },
     {
-      "game_id": "2031689",
+      "game_id": "2031690",
       "date": "2026-05-14",
       "day_of_week": "Thu",
-      "time": "6:00 pm",
+      "time": "6:00 pm",
       "home_away": "away",
       "opponent": "HULL RAISER",
       "location": "DND 5",
@@ -124,14 +117,13 @@
       "result": null,
       "my_runs": null,
       "opponent_runs": null,
-      "details_type": "Game Info",
-      "details_url": "https://www.vernoncoedslopitchleague.com/teams/default.asp?u=VCSP&s=softball&p=preview&sportsHQ=952569&gameID=2031689"
+      "details_url": "https://www.vernoncoedslopitchleague.com/teams/default.asp?u=VCSP&s=softball&p=preview&sportsHQ=952575&gameID=2031690"
     },
     {
       "game_id": "2031694",
       "date": "2026-05-14",
       "day_of_week": "Thu",
-      "time": "7:30 pm",
+      "time": "7:30 pm",
       "home_away": "home",
       "opponent": "BAT INTENTIONS",
       "location": "DND 5",
@@ -139,14 +131,13 @@
       "result": null,
       "my_runs": null,
       "opponent_runs": null,
-      "details_type": "Game Info",
       "details_url": "https://www.vernoncoedslopitchleague.com/teams/default.asp?u=VCSP&s=softball&p=preview&sportsHQ=952569&gameID=2031694"
     },
     {
       "game_id": "2031704",
       "date": "2026-05-21",
       "day_of_week": "Thu",
-      "time": "6:00 pm",
+      "time": "6:00 pm",
       "home_away": "home",
       "opponent": "BUNTSMOKERS",
       "location": "DND 5",
@@ -154,14 +145,13 @@
       "result": null,
       "my_runs": null,
       "opponent_runs": null,
-      "details_type": "Game Info",
       "details_url": "https://www.vernoncoedslopitchleague.com/teams/default.asp?u=VCSP&s=softball&p=preview&sportsHQ=952569&gameID=2031704"
     },
     {
-      "game_id": "2031709",
+      "game_id": "2031710",
       "date": "2026-05-21",
       "day_of_week": "Thu",
-      "time": "7:30 pm",
+      "time": "7:30 pm",
       "home_away": "away",
       "opponent": "THE BLOWOUTS",
       "location": "DND 5",
@@ -169,14 +159,13 @@
       "result": null,
       "my_runs": null,
       "opponent_runs": null,
-      "details_type": "Game Info",
-      "details_url": "https://www.vernoncoedslopitchleague.com/teams/default.asp?u=VCSP&s=softball&p=preview&sportsHQ=952569&gameID=2031709"
+      "details_url": "https://www.vernoncoedslopitchleague.com/teams/default.asp?u=VCSP&s=softball&p=preview&sportsHQ=880792&gameID=2031710"
     },
     {
-      "game_id": "2031759",
+      "game_id": "2031760",
       "date": "2026-05-23",
       "day_of_week": "Sat",
-      "time": "9:30 am",
+      "time": "9:30 am",
       "home_away": "away",
       "opponent": "BULLSHITTERS",
       "location": "DND 2",
@@ -184,14 +173,13 @@
       "result": null,
       "my_runs": null,
       "opponent_runs": null,
-      "details_type": "Game Info",
-      "details_url": "https://www.vernoncoedslopitchleague.com/teams/default.asp?u=VCSP&s=softball&p=preview&sportsHQ=952569&gameID=2031759"
+      "details_url": "https://www.vernoncoedslopitchleague.com/teams/default.asp?u=VCSP&s=softball&p=preview&sportsHQ=924467&gameID=2031760"
     },
     {
       "game_id": "2031770",
       "date": "2026-05-23",
       "day_of_week": "Sat",
-      "time": "2:00 pm",
+      "time": "2:00 pm",
       "home_away": "home",
       "opponent": "GLOVE HANDLES",
       "location": "DND 6",
@@ -199,29 +187,13 @@
       "result": null,
       "my_runs": null,
       "opponent_runs": null,
-      "details_type": "Game Info",
       "details_url": "https://www.vernoncoedslopitchleague.com/teams/default.asp?u=VCSP&s=softball&p=preview&sportsHQ=952569&gameID=2031770"
     },
     {
-      "game_id": "2031779",
+      "game_id": "2031776",
       "date": "2026-05-24",
       "day_of_week": "Sun",
-      "time": "8:00 am",
-      "home_away": "away",
-      "opponent": "BAT INTENTIONS",
-      "location": "DND 2",
-      "status": "scheduled",
-      "result": null,
-      "my_runs": null,
-      "opponent_runs": null,
-      "details_type": "Game Info",
-      "details_url": "https://www.vernoncoedslopitchleague.com/teams/default.asp?u=VCSP&s=softball&p=preview&sportsHQ=952569&gameID=2031779"
-    },
-    {
-      "game_id": "2031775",
-      "date": "2026-05-24",
-      "day_of_week": "Sun",
-      "time": "12:30 pm",
+      "time": "12:30 pm",
       "home_away": "away",
       "opponent": "HULL RAISER",
       "location": "DND 2",
@@ -229,14 +201,27 @@
       "result": null,
       "my_runs": null,
       "opponent_runs": null,
-      "details_type": "Game Info",
-      "details_url": "https://www.vernoncoedslopitchleague.com/teams/default.asp?u=VCSP&s=softball&p=preview&sportsHQ=952569&gameID=2031775"
+      "details_url": "https://www.vernoncoedslopitchleague.com/teams/default.asp?u=VCSP&s=softball&p=preview&sportsHQ=952575&gameID=2031776"
     },
     {
-      "game_id": "2031717",
+      "game_id": "2031780",
+      "date": "2026-05-24",
+      "day_of_week": "Sun",
+      "time": "8:00 am",
+      "home_away": "away",
+      "opponent": "BAT INTENTIONS",
+      "location": "DND 2",
+      "status": "scheduled",
+      "result": null,
+      "my_runs": null,
+      "opponent_runs": null,
+      "details_url": "https://www.vernoncoedslopitchleague.com/teams/default.asp?u=VCSP&s=softball&p=preview&sportsHQ=1001293&gameID=2031780"
+    },
+    {
+      "game_id": "2031718",
       "date": "2026-05-28",
       "day_of_week": "Thu",
-      "time": "7:30 pm",
+      "time": "7:30 pm",
       "home_away": "away",
       "opponent": "BULLSHITTERS",
       "location": "DND 9",
@@ -244,14 +229,13 @@
       "result": null,
       "my_runs": null,
       "opponent_runs": null,
-      "details_type": "Game Info",
-      "details_url": "https://www.vernoncoedslopitchleague.com/teams/default.asp?u=VCSP&s=softball&p=preview&sportsHQ=952569&gameID=2031717"
+      "details_url": "https://www.vernoncoedslopitchleague.com/teams/default.asp?u=VCSP&s=softball&p=preview&sportsHQ=924467&gameID=2031718"
     },
     {
       "game_id": "2031728",
       "date": "2026-06-04",
       "day_of_week": "Thu",
-      "time": "6:00 pm",
+      "time": "6:00 pm",
       "home_away": "home",
       "opponent": "GLOVE HANDLES",
       "location": "DND 5",
@@ -259,14 +243,13 @@
       "result": null,
       "my_runs": null,
       "opponent_runs": null,
-      "details_type": "Game Info",
       "details_url": "https://www.vernoncoedslopitchleague.com/teams/default.asp?u=VCSP&s=softball&p=preview&sportsHQ=952569&gameID=2031728"
     },
     {
-      "game_id": "2031731",
+      "game_id": "2031732",
       "date": "2026-06-04",
       "day_of_week": "Thu",
-      "time": "7:30 pm",
+      "time": "7:30 pm",
       "home_away": "away",
       "opponent": "HULL RAISER",
       "location": "DND 8",
@@ -274,14 +257,13 @@
       "result": null,
       "my_runs": null,
       "opponent_runs": null,
-      "details_type": "Game Info",
-      "details_url": "https://www.vernoncoedslopitchleague.com/teams/default.asp?u=VCSP&s=softball&p=preview&sportsHQ=952569&gameID=2031731"
+      "details_url": "https://www.vernoncoedslopitchleague.com/teams/default.asp?u=VCSP&s=softball&p=preview&sportsHQ=952575&gameID=2031732"
     },
     {
-      "game_id": "2031735",
+      "game_id": "2031736",
       "date": "2026-06-11",
       "day_of_week": "Thu",
-      "time": "6:00 pm",
+      "time": "6:00 pm",
       "home_away": "away",
       "opponent": "BAT INTENTIONS",
       "location": "DND 8",
@@ -289,14 +271,13 @@
       "result": null,
       "my_runs": null,
       "opponent_runs": null,
-      "details_type": "Game Info",
-      "details_url": "https://www.vernoncoedslopitchleague.com/teams/default.asp?u=VCSP&s=softball&p=preview&sportsHQ=952569&gameID=2031735"
+      "details_url": "https://www.vernoncoedslopitchleague.com/teams/default.asp?u=VCSP&s=softball&p=preview&sportsHQ=1001293&gameID=2031736"
     },
     {
       "game_id": "2031746",
       "date": "2026-06-11",
       "day_of_week": "Thu",
-      "time": "7:30 pm",
+      "time": "7:30 pm",
       "home_away": "home",
       "opponent": "BUNTSMOKERS",
       "location": "DND 5",
@@ -304,14 +285,13 @@
       "result": null,
       "my_runs": null,
       "opponent_runs": null,
-      "details_type": "Game Info",
       "details_url": "https://www.vernoncoedslopitchleague.com/teams/default.asp?u=VCSP&s=softball&p=preview&sportsHQ=952569&gameID=2031746"
     },
     {
-      "game_id": "2031751",
+      "game_id": "2031752",
       "date": "2026-06-18",
       "day_of_week": "Thu",
-      "time": "6:00 pm",
+      "time": "6:00 pm",
       "home_away": "away",
       "opponent": "THE BLOWOUTS",
       "location": "DND 8",
@@ -319,8 +299,7 @@
       "result": null,
       "my_runs": null,
       "opponent_runs": null,
-      "details_type": "Game Info",
-      "details_url": "https://www.vernoncoedslopitchleague.com/teams/default.asp?u=VCSP&s=softball&p=preview&sportsHQ=952569&gameID=2031751"
+      "details_url": "https://www.vernoncoedslopitchleague.com/teams/default.asp?u=VCSP&s=softball&p=preview&sportsHQ=880792&gameID=2031752"
     }
   ]
 }
