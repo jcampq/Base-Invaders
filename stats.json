@@ -1,7 +1,7 @@
 {
   "division": "VERNON LOCK & SAFE Mixed Division",
   "my_team": "BASE INVADERS",
-  "last_updated": "2026-05-03T05:46:58-07:00",
+  "last_updated": "2026-05-03T20:01:27-07:00",
   "standings": [
     {
       "team": "GLOVE HANDLES",
@@ -29,27 +29,27 @@
     },
     {
       "team": "BASE INVADERS",
-      "record": "2-0-1",
-      "win_pct": ".833",
-      "gb": "1",
-      "home": "2-0-1",
+      "record": "3-0-1",
+      "win_pct": ".875",
+      "gb": "0.5",
+      "home": "3-0-1",
       "away": "0-0",
-      "rf": "63",
-      "ra": "46",
-      "last_10": "2-0-1",
-      "streak": "Won 2"
+      "rf": "77",
+      "ra": "48",
+      "last_10": "3-0-1",
+      "streak": "Won 3"
     },
     {
       "team": "BUNTSMOKERS",
-      "record": "2-1",
-      "win_pct": ".667",
-      "gb": "1.5",
+      "record": "2-2",
+      "win_pct": ".500",
+      "gb": "2",
       "home": "2-0",
-      "away": "0-1",
-      "rf": "51",
-      "ra": "36",
-      "last_10": "2-1",
-      "streak": "Won 1"
+      "away": "0-2",
+      "rf": "53",
+      "ra": "50",
+      "last_10": "2-2",
+      "streak": "Lost 1"
     },
     {
       "team": "BULLSHITTERS",
@@ -256,6 +256,18 @@
       "team2_runs": 8,
       "winner": "BUNTSMOKERS",
       "boxscore_url": "https://www.vernoncoedslopitchleague.com/teams/default.asp?u=VCSP&s=softball&p=boxscore&sportsHQ=1001295&gameID=2031674"
+    },
+    {
+      "game_id": "2031792",
+      "date": "2026-05-01",
+      "time": "6:00 pm",
+      "diamond": "DND 4",
+      "team1": "BASE INVADERS",
+      "team1_runs": 14,
+      "team2": "BUNTSMOKERS",
+      "team2_runs": 2,
+      "winner": "BASE INVADERS",
+      "boxscore_url": "https://www.vernoncoedslopitchleague.com/teams/default.asp?u=VCSP&s=softball&p=boxscore&sportsHQ=952569&gameID=2031792"
     }
   ]
 }
