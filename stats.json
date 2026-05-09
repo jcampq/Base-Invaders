@@ -1,7 +1,7 @@
 {
   "division": "VERNON LOCK & SAFE Mixed Division",
   "my_team": "BASE INVADERS",
-  "last_updated": "2026-05-08T06:09:04-07:00",
+  "last_updated": "2026-05-09T05:54:31-07:00",
   "standings": [
     {
       "team": "GLOVE HANDLES",
@@ -17,15 +17,15 @@
     },
     {
       "team": "BAT INTENTIONS",
-      "record": "3-0-1",
-      "win_pct": ".875",
-      "gb": "0.5",
-      "home": "1-0",
+      "record": "4-0-1",
+      "win_pct": ".900",
+      "gb": "-",
+      "home": "2-0",
       "away": "2-0-1",
-      "rf": "68",
-      "ra": "37",
-      "last_10": "3-0-1",
-      "streak": "Won 3"
+      "rf": "85",
+      "ra": "42",
+      "last_10": "4-0-1",
+      "streak": "Won 4"
     },
     {
       "team": "BASE INVADERS",
@@ -41,51 +41,51 @@
     },
     {
       "team": "BUNTSMOKERS",
-      "record": "2-2",
+      "record": "3-3",
       "win_pct": ".500",
       "gb": "2",
       "home": "2-0",
-      "away": "0-2",
-      "rf": "53",
-      "ra": "50",
-      "last_10": "2-2",
-      "streak": "Lost 1"
-    },
-    {
-      "team": "BULLSHITTERS",
-      "record": "1-3",
-      "win_pct": ".250",
-      "gb": "3",
-      "home": "0-1",
-      "away": "1-2",
-      "rf": "33",
-      "ra": "43",
-      "last_10": "1-3",
+      "away": "1-3",
+      "rf": "65",
+      "ra": "67",
+      "last_10": "3-3",
       "streak": "Won 1"
     },
     {
+      "team": "BULLSHITTERS",
+      "record": "2-3",
+      "win_pct": ".400",
+      "gb": "2.5",
+      "home": "1-1",
+      "away": "1-2",
+      "rf": "46",
+      "ra": "46",
+      "last_10": "2-3",
+      "streak": "Won 2"
+    },
+    {
       "team": "THE BLOWOUTS",
-      "record": "0-4",
+      "record": "0-5",
       "win_pct": ".000",
-      "gb": "4",
-      "home": "0-1",
+      "gb": "4.5",
+      "home": "0-2",
       "away": "0-3",
       "rf": "14",
-      "ra": "67",
-      "last_10": "0-4",
-      "streak": "Lost 4"
+      "ra": "74",
+      "last_10": "0-5",
+      "streak": "Lost 5"
     },
     {
       "team": "HULL RAISER",
-      "record": "0-4",
+      "record": "0-5",
       "win_pct": ".000",
-      "gb": "4",
+      "gb": "4.5",
       "home": "0-1",
-      "away": "0-3",
-      "rf": "22",
-      "ra": "82",
-      "last_10": "0-4",
-      "streak": "Lost 4"
+      "away": "0-4",
+      "rf": "25",
+      "ra": "95",
+      "last_10": "0-5",
+      "streak": "Lost 5"
     }
   ],
   "games": [
@@ -268,6 +268,42 @@
       "team2_runs": 2,
       "winner": "BASE INVADERS",
       "boxscore_url": "https://www.vernoncoedslopitchleague.com/teams/default.asp?u=VCSP&s=softball&p=boxscore&sportsHQ=952569&gameID=2031792"
+    },
+    {
+      "game_id": "2031680",
+      "date": "2026-05-07",
+      "time": "6:00 pm",
+      "diamond": "DND 9",
+      "team1": "BAT INTENTIONS",
+      "team1_runs": 17,
+      "team2": "BUNTSMOKERS",
+      "team2_runs": 5,
+      "winner": "BAT INTENTIONS",
+      "boxscore_url": "https://www.vernoncoedslopitchleague.com/teams/default.asp?u=VCSP&s=softball&p=boxscore&sportsHQ=1001293&gameID=2031680"
+    },
+    {
+      "game_id": "2031682",
+      "date": "2026-05-07",
+      "time": "7:30 pm",
+      "diamond": "DND 9",
+      "team1": "BULLSHITTERS",
+      "team1_runs": 13,
+      "team2": "HULL RAISER",
+      "team2_runs": 3,
+      "winner": "BULLSHITTERS",
+      "boxscore_url": "https://www.vernoncoedslopitchleague.com/teams/default.asp?u=VCSP&s=softball&p=boxscore&sportsHQ=924467&gameID=2031682"
+    },
+    {
+      "game_id": "2031684",
+      "date": "2026-05-07",
+      "time": "7:30 pm",
+      "diamond": "DND 8",
+      "team1": "THE BLOWOUTS",
+      "team1_runs": 0,
+      "team2": "BUNTSMOKERS",
+      "team2_runs": 7,
+      "winner": "BUNTSMOKERS",
+      "boxscore_url": "https://www.vernoncoedslopitchleague.com/teams/default.asp?u=VCSP&s=softball&p=boxscore&sportsHQ=880792&gameID=2031684"
     }
   ]
 }
